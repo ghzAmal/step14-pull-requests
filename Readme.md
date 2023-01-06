@@ -7,8 +7,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 2. Ruslan (corrigé !)
 3. Jérôme (avec un m )
 4. Gilberto (avec un J !)
-5. Abdessammad (deux m !)  
-
+5. Abdessamad (deux m !)  
 
 ## Correction des noms avec des Pull Requests
 
