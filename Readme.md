@@ -6,7 +6,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 1. Charlote (un seul t !)
 2. Russlan (deux s !)
 3. Jérôme (avec un m )
-4. Jilberto (avec un J !)
+4. Gilberto (avec un J !)
 5. Abdessammad (deux m !)  
 
 
