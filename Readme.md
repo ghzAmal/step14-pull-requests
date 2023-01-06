@@ -3,7 +3,7 @@
 Dans cet exercice, nous implémentons une collaboration à base de `Pull Requests`pour corriger les typos dans la liste des noms donnée ci-dessous. 
 
 ## La Dream Team 
-1. Charlote (un seul t !)
+1. Charlotte (deux t !)
 2. Ruslan (corrigé !)
 3. Jérôme (avec un m )
 4. Jilberto (avec un J !)
