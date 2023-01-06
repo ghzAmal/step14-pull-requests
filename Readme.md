@@ -3,11 +3,11 @@
 Dans cet exercice, nous implémentons une collaboration à base de `Pull Requests`pour corriger les typos dans la liste des noms donnée ci-dessous. 
 
 ## La Dream Team 
-1. Charlotte (deux t !)
-2. Ruslan (corrigé !)
-3. Jérôme (avec un m )
-4. Gilberto (avec un J !)
-5. Abdessamad (deux m !)  
+1. Charlotte 
+2. Ruslan 
+3. Jérôme 
+4. Gilberto 
+5. Abdessamad 
 
 ## Correction des noms avec des Pull Requests
 
