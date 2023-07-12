@@ -3,11 +3,19 @@
 Dans cet exercice, nous implémentons une collaboration à base de `Pull Requests`pour corriger les typos dans la liste des noms donnée ci-dessous. 
 
 ## La Dream Team 
-1. Charlotte 
-2. Ruslan 
-3. Jérôme 
-4. Gilberto 
-5. Abdessamad 
+1. Benabdelaziz Immenn
+2. Hamdoun FFarah 
+3. Toumi Samarr 
+4. Taleb Wieeem 
+5. Chargi Mehhdi
+6. Abidi Hibaa
+7. Ouili Manell
+8. Hattab Rannia
+9. Jaoua Mohammed
+10. Ben Salem Saaber
+11. Gozzi Amaal
+12. Lahbecha Mohamed Amiine
+13. Frikha Khallil
 
 ## Correction des noms avec des Pull Requests
 
