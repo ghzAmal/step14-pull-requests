@@ -13,7 +13,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 8. Hattab Rannia
 9. Jaoua Mohammed
 10. Ben Salem Saaber
-11. Gozzi Amaal
+11. Ghozzi Amal
 12. Lahbecha Mohamed Amiine
 13. Frikha Khallil
 
