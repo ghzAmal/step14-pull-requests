@@ -12,7 +12,7 @@ Dans cet exercice, nous implémentons une collaboration à base de `Pull Request
 7. Ouili Manell
 8. Hattab Rannia
 9. Jaoua Mohammed
-10. Ben Salem Saaber
+10. Ben Salem Saber
 11. Gozzi Amaal
 12. Lahbecha Mohamed Amine
 13. Frikha Khallil
